@@ -1,0 +1,18 @@
+mf Robot_4.FBX
+st 1
+ts 0.100000 0.100000 0.100000
+tr -1.570000 0.000000 0.000000
+tp 0.000000 3.600000 0.000000
+nm 1
+mn Robot 4
+dp Robot_4.png
+np Robot_4_Normals.png
+mp Robot_4_Metalic.png
+rp Robot_4_Roughness.png
+ep Robot_4_Emission.png
+ap Robot_4_Occlusion.png
+me 1
+re 1
+es 1
+te 1
+et 1

@@ -309,7 +309,7 @@ void GameState::initialize(Settings settings)
 	m_gameObjects.back()->setMaterial(groundMat);
 
 	// Map Handler
-	//m_mapHandler.initialize("map1.txt", (UINT)m_gameObjects.size(), true);
+	//m_mapHandler.initialize("map_cube.txt", (UINT)m_gameObjects.size(), true);
 	m_mapHandler.initialize("map_sponza2.txt", (UINT)m_gameObjects.size(), true);
 
 	// - Import Game Objects and Lights from Map file

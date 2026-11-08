@@ -7,7 +7,7 @@ extern Application* app;
 
 Application::Application()
 {
-	m_name = L"Marble Engine";
+	m_name = L"Mist Engine";
 	m_settings.width = 1600;
 	m_settings.height = 900;
 	m_settings.fov = 70;
